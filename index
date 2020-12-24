@@ -1,0 +1,91 @@
+
+
+<!DOCTYPE html>
+<html>
+<title>40811202個人網站</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+	.fa {
+  padding: 10px;
+  font-size: 10px;
+border-radius:50%;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+	.fa-instagram {
+  background: #125688;
+  color: white;
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="index.html" class="fas fa-house-user" style='font-size:36px'></a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+<div class="w3-right w3-hide-small">
+    <a href="P1.html" class="w3-bar-item w3-button">自我介紹</a> 
+	<a href="P2.html" class="w3-bar-item w3-button">興趣愛好</a> 
+	<a href="P3.html" class="w3-bar-item w3-button">活動參與</a> 
+	<a href="P4.html" class="w3-bar-item w3-button">兒時照片</a> 
+	<a href="P5.html" class="w3-bar-item w3-button">證照與獎狀</a> </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" align="center" id="home">
+  <img class="w3-image" src="image/Cover.jpg" alt="Personal website" width="1600" height="600">
+<div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge"><strong>QIU-ZI-JIA的個人網站</strong></h1>
+</div>
+</header>
+
+<!-- Page content -->
+
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-16">
+  <p>製作人:邱子珈</p>
+	<a href="#" class="fa fa-facebook"></a>
+	<a href="#" class="fa fa-instagram"></a>
+	
+</footer>
+
+
+</body>
+</html>
